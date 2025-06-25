@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/TxnXTR66/web-developer.png" alt="banner" />
+  <img src="https://i.ibb.co/7NZXqzGH/react-node-js.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Nur Alom</h1>
