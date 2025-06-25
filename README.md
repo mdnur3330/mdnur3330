@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/mdnur3330/assets/main/banner-tech-abstract.png](https://i.ibb.co/TxnXTR66/web-developer.png)" alt="banner" />
+  <img src="https://i.ibb.co/TxnXTR66/web-developer.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Nur Alom</h1>
