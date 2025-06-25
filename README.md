@@ -34,15 +34,14 @@ I’m a dedicated web developer specializing in building modern and responsive a
 ---
 
 ## 📌 Location & Email
-- 📍 Based in: Bangladesh  
+- 📍 Babugaanj, Barishal, Bangladesh  
 - ✉️ Email: nuralom.web@gmail.com
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mdnur3330&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnur3330&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nuralom&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuralom&theme=radical" />
 </p>
 
 ---
