@@ -5,8 +5,20 @@
 
 ---
 
-## 📍 Location & 📧 Contact
-**Location:** Bangladesh  
+## 🌐 Connect With Me & 📍 Location
+<p>
+  <a href="https://linkedin.com/in/nur-alom1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/seddeki40149" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://web.facebook.com/md.nur.alom.882377" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
+</p>
+
 **Email:** your.email@example.com
 
 ---
@@ -37,29 +49,14 @@ Assalamu Alaikum! I'm Muhammad Nur Alom Seddeki, a passionate full-stack develop
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/nur-alom1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/seddeki40149" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://web.facebook.com/md.nur.alom.882377" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 📈 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nishant0708&show_icons=true&theme=radical"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0708&layout=compact&theme=radical"/>
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant0708&theme=radical"/>
 </p>
