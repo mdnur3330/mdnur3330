@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-link.com)
+![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
 
 # Muhammad Nur Alom Seddeki
 ### MERN Stack Developer | React & Node.js Enthusiast
@@ -19,18 +19,18 @@
   <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </p>
 
-**Email:** your.email@example.com
+**Email:** nuralom.web@gmail.com
 
 ---
 
 ## 🧑‍💻 About Me
-Assalamu Alaikum! I'm Muhammad Nur Alom Seddeki, a passionate full-stack developer with a strong grip on modern web technologies. I love building dynamic, responsive, and optimized web applications that solve real-world problems.
+Assalamu Alaikum! I'm Muhammad Nur Alom Seddeki, a passionate full-stack developer with expertise in modern web technologies. I enjoy building scalable, efficient, and user-centric web applications.
 
 ### 🔭 Current Activities
 - 🚀 Exploring **Next.js**
-- 🌐 Building a **tourism website** with MERN stack
-- 🔒 Integrating **Firebase Authentication** in real-time projects
-- 📊 Experimenting with **MongoDB Aggregation Pipelines**
+- 🌐 Working on a **Tourism Website**
+- 🔒 Implementing **Firebase Authentication** in full-stack apps
+- ⚙️ Building **REST APIs** with **Express & MongoDB**
 
 ---
 
@@ -49,14 +49,21 @@ Assalamu Alaikum! I'm Muhammad Nur Alom Seddeki, a passionate full-stack develop
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nishant0708&show_icons=true&theme=radical"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0708&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishant0708&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0708&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant0708&theme=tokyonight" />
 </p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+---
 
+## 📌 Badges & Achievements
+<!-- Add your custom badges or GSSOC/LeetCode badges here -->
+
+---
+
+## 📅 Contribution Activity
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant0708&theme=radical"/>
+  <img src="https://ghchart.rshah.org/nishant0708" alt="nishant0708's Github chart" />
 </p>
