@@ -1,68 +1,65 @@
-<h1 align="center">Hi 👋, I'm Nur Alom</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
+![Banner](https://your-banner-image-link.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdnur3330&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# Muhammad Nur Alom Seddeki
+### MERN Stack Developer | React & Node.js Enthusiast
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🌱 I’m currently working with the **MERN Stack**
-- 🚀 I specialize in building:
-  - 🧠 Responsive frontend with **React & TailwindCSS**
-  - ⚙️ Secure backend with **Node.js, Express.js, MongoDB**
-  - 🔐 Authentication using **Firebase Auth** and **JWT**
-- 👨‍💻 All of my projects are available at: [My Portfolio](#)
-
-- 📫 Reach me at: **nuralom.web@gmail.com**
-- 📄 Know more about me via: [Resume / CV](#)
+## 📍 Location & 📧 Contact
+**Location:** Bangladesh  
+**Email:** your.email@example.com
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧑‍💻 About Me
+Assalamu Alaikum! I'm Muhammad Nur Alom Seddeki, a passionate full-stack developer with a strong grip on modern web technologies. I love building dynamic, responsive, and optimized web applications that solve real-world problems.
 
+### 🔭 Current Activities
+- 🚀 Exploring **Next.js**
+- 🌐 Building a **tourism website** with MERN stack
+- 🔒 Integrating **Firebase Authentication** in real-time projects
+- 📊 Experimenting with **MongoDB Aggregation Pipelines**
+
+---
+
+## 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,github,vscode" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-### 🔥 My Featured Projects
-
-| Project | Description | Live | Code |
-|--------|-------------|------|------|
-| 🪴 **Plant Care Tracker** | Full-featured plant manager with auth, reminders, dark mode | [Live](https://plant-bda56.web.app/) | [Client](#) / [Server](#) |
-| 🏺 **Historical Artifacts Tracker** | Artifact CRUD app with secure auth, Firebase & Vercel | [Live](https://historical-artifacts-tra-aacdc.web.app/) | [Client](#) / [Server](#) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdnur3330&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnur3330&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdnur3330&theme=tokyo-night" />
+## 🌐 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/nur-alom1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/seddeki40149" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://web.facebook.com/md.nur.alom.882377" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ✨ Fun Facts
+## 📈 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
+</p>
 
-- ☕ I turn coffee into scalable, beautiful web apps.
-- 🔁 I love debugging more than writing code.
-- 🧠 "Code is poetry — let's write it clean and meaningful."
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
----
-
-### 📫 Let’s Connect!
-
-<p align="left">
-  <a href="mailto:nuralom.web@gmail.com"><img src="https://img.shields.io/badge/Email-nuralom.web@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
 </p>
