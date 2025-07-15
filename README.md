@@ -3,10 +3,6 @@
   <img src="https://i.ibb.co/m5B6BWB7/Welcome-To-MY-github.png" width="100%" alt="Welcome to my GitHub" />
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://i.ibb.co/pjKJPLGj/Md-Nur-Alom-developer.png" width="200" height="200" style="border-radius: 50%;" alt="Nur Alom" />
-</p>
 
 <h1 align="center">👋 Hello! I am Nur Alom</h1>
 
