@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello! I am Nur Alom</h1>
 
 <p align="center">
-  <b>A Passionate MERN Stack Developer | Backend Enthusiast | Open Source Learner</b>
+  <b>Junior MERN Stack Developer</b>
 </p>
 
 ---
