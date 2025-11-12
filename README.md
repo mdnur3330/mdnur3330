@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="[https://i.ibb.co/m5B6BWB7/Welcome-To-MY-github.png](https://i.ibb.co/m5B6BWB7/Welcome-To-MY-github.png)" width="100%" alt="Welcome to my GitHub" />
+  <img src="https://i.ibb.co/m5B6BWB7/Welcome-To-MY-github.png" width="100%" alt="Welcome to my GitHub" />
 </p>
 
 
